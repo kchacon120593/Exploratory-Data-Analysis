@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis
-Bay Area Bike Sharing Trips using Python
+Bay Area Bike Sharing Trips using Python and Jupyter Notebooks
 
 
 The individualized mobility projects, in this case bycicles, have been growing in the last 10 years, as an alternative and solution to traffic congestion 
